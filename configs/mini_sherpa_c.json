@@ -1,0 +1,7 @@
+{
+    "observation": {
+        "seed": 27,
+        "filename": "mini_sherpa_c"
+    },
+    "network_path": "net.pt"
+}

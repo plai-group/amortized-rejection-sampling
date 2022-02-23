@@ -1,0 +1,6 @@
+{
+    "model": {
+        "beta": 2
+    },
+    "proposal": "posterior_base"
+}

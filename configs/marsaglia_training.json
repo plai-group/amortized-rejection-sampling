@@ -1,0 +1,17 @@
+{
+    "model": {
+        "prior_mean": 0,
+        "prior_std": 1,
+        "likelihood_std": 0.1,
+        "observed_list": [0, 0]
+    },
+    "train": {
+        "learning_rate": 1e-3,
+        "batch_size": 512,
+        "lstm_dim": 512
+    },
+    "num_traces": 2e6,
+    "seed": 123,
+    "device": "cpu",
+    "output_name": "net.pt"
+}

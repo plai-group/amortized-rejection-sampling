@@ -1,0 +1,6 @@
+{
+    "model": {
+        "beta": 10
+    },
+    "proposal": "posterior"
+}

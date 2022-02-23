@@ -1,0 +1,3 @@
+[submodule "pyprob"]
+	path = pyprob
+	url = git@github.com:saeidnp/pyprob.git

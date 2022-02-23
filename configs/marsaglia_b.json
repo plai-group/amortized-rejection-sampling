@@ -1,0 +1,11 @@
+{
+    "model": {
+        "prior_mean": 0,
+        "prior_std": 1,
+        "likelihood_std": 0.1,
+        "observed_list": [-1, -1]
+    },
+    "network_path": "net.pt",
+    "evidence": 0.6825825736135941,
+    "z_q_gt": 0.9969890597511023
+}
