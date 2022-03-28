@@ -1,3 +1,8 @@
+"""
+The implementation of this model (Mini-SHERPA) is provided by Lukas Heinrich
+http://www.lukasheinrich.com/
+https://github.com/lukasheinrich
+"""
 import pyprob
 from pyprob import Model, InferenceEngine, InferenceNetwork, PriorInflation
 from pyprob.distributions import Distribution, Empirical, Mixture, Uniform, Normal, Categorical, Poisson
